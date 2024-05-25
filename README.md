@@ -9,4 +9,12 @@ You will need to put the remote servers IP address in the index.php file.
 
 script.js
 
+You will need to update the IP addresses in this file on the location of where you are hosting the files locally. 
 
+To Use:
+
+It will be best to make a temp server location mkdir /tmp/server
+
+Place you index.php file and your script.js files in that directory.
+
+Then us command sudo php -S 0.0.0.0:80 to start serving your files
