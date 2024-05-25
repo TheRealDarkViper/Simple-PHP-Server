@@ -1,5 +1,5 @@
 # Simple-PHP-Server
-This is code to create a simple PHP server.
+This is code to create a simple PHP server. The version will grab the document.cookie and send back to the server. These methods can me replaced with others if needed.
 
 Make sure to place script.js and index.php on your computer in your server location. 
 
